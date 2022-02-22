@@ -13,3 +13,5 @@ graph[1].append((0,7))
 graph[2].append((0,5))
 
 print(graph)
+
+#d

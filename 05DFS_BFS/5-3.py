@@ -4,3 +4,5 @@ def recursive_function():
     recursive_function()
 
 recursive_function()
+
+# 무한대로 출력됨
